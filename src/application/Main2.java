@@ -30,10 +30,7 @@ public class Main2 {
             System.out.println("           Menu");
             System.out.println("==========================");
             System.out.println("     Escolha uma Opção");
-            System.out.println("1 - Cadastro de produto");
-            System.out.println("2 - Consulta estoque");
-            System.out.println("3 - Adicionar produto em estoque");
-            System.out.println("4 - Remover produto do estoque");
+            System.out.println("1 - Cadastro de produto 2 - Consulta estoque 3 - Adicionar produto em estoque 4 - Remover produto do estoque");
             int opcao = sc.nextInt();
             sc.nextLine();
 
