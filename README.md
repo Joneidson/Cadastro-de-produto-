@@ -22,16 +22,23 @@ Feito em Java com foco em lógica de programação e princípios de orientação
 - Terminal/console para interação com o usuário.
 
 ---
+==========================
+           Menu
+==========================
+     Escolha uma Opção
+1 - Cadastro de produto
+2 - Consulta estoque
+3 - Adicionar produto em estoque
+4 - Remover produto do estoque
 
-## 📂 Estrutura do projeto
-Cadastro-de-produto/
-│
-├── src/
-│ ├── application/
-│ │ └── Main2.java // Executa o programa principal com menu interativo
-│ │
-│ └── entities/
-│ └── Produto.java // Classe com atributos e métodos do produto
-│
-├── .gitignore
-└── README.md
+Qual o nome do produto?
+➡️ TV
+Qual o preço do produto?
+➡️ 900
+Quantidade que vai entrar no estoque?
+➡️ 10
+
+
+Desenvolvido por Joneidson
+📅 Início: 08/08/2025
+🚀 Propósito: Prática de lógica e orientação a objetos com Java.
